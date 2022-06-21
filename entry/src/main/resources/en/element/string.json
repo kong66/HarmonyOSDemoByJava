@@ -1,0 +1,60 @@
+{
+  "string": [
+    {
+      "name": "entry_MainAbility",
+      "value": "entry_MainAbility"
+    },
+    {
+      "name": "mainability_description",
+      "value": "Java_Empty Ability"
+    },
+    {
+      "name": "mainability_HelloWorld",
+      "value": "Hello World"
+    },
+    {
+      "name": "button_drag",
+      "value":"DragView"
+    },
+    {
+      "name": "button_back",
+      "value":"Back"
+    },
+    {
+      "name": "button_reset",
+      "value": "reset"
+    },
+    {
+      "name": "button_webView",
+      "value": "webView"
+    },
+    {
+      "name": "fillInTheBlank",
+      "value": "FillInTheBlank"
+    },
+    {
+      "name": "submit",
+      "value": "Submit"
+    },
+    {
+      "name": "congratulation",
+      "value": "Congratulation"
+    },
+    {
+      "name":"finishingChallenge",
+      "value": "You have finished the challenge!"
+    },
+    {
+      "name": "ok",
+      "value": "OK"
+    },
+    {
+      "name": "choiceQuestion",
+      "value": "choiceQuestion"
+    },
+    {
+      "name": "slidePage",
+      "value": "slidePage"
+    }
+  ]
+}

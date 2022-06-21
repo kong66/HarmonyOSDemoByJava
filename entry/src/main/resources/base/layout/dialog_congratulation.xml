@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DirectionalLayout
+    xmlns:ohos="http://schemas.huawei.com/res/ohos"
+    ohos:height="match_parent"
+    ohos:width="match_parent"
+    ohos:orientation="vertical"
+    ohos:background_element="$graphic:background_common_dialog"
+    ohos:focus_border_radius="20vp"
+    >
+    <Text
+        ohos:height="50vp"
+        ohos:width="match_parent"
+        ohos:text="$string:congratulation"
+        ohos:text_size="30fp"
+        ohos:margin="10vp"
+        ohos:layout_alignment="left|top"
+        ohos:text_alignment="horizontal_center"
+        />
+    <Text
+        ohos:height="80vp"
+        ohos:width="match_parent"
+        ohos:text="$string:finishingChallenge"
+        ohos:text_size="20fp"
+        ohos:layout_alignment="vertical_center|horizontal_center"
+        ohos:text_alignment="horizontal_center"
+        />
+    <Button
+        ohos:id="$+id:ok"
+        ohos:height="40vp"
+        ohos:width="200vp"
+        ohos:text="$string:ok"
+        ohos:text_size="25fp"
+        ohos:background_element="$graphic:background_button_yellow"
+        ohos:layout_alignment="bottom|horizontal_center"
+        />
+
+</DirectionalLayout>

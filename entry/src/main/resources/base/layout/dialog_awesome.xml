@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DirectionalLayout
+    xmlns:ohos="http://schemas.huawei.com/res/ohos"
+    ohos:id="$+id:dialogBG"
+    ohos:height="match_parent"
+    ohos:width="match_parent"
+    ohos:orientation="vertical"
+    ohos:background_element="$graphic:background_common_dialog"
+    ohos:focus_border_radius="20vp"
+    >
+
+    <Image
+        ohos:id="$+id:image_question"
+        ohos:layout_alignment="horizontal_center|vertical_center"
+        ohos:height="150vp"
+        ohos:width="150vp"
+        ohos:image_src="$media:awesome"
+        ohos:scale_mode="inside"
+        ohos:margin="10vp"
+        />
+    <Text
+        ohos:height="60vp"
+        ohos:width="match_parent"
+        ohos:text="Awesome"
+        ohos:text_size="30fp"
+        ohos:text_color="#FF14E271"
+        ohos:text_weight="900"
+        ohos:margin="10vp"
+        ohos:layout_alignment="horizontal_center|bottom"
+        ohos:text_alignment="horizontal_center"
+        />
+
+</DirectionalLayout>

@@ -1,0 +1,62 @@
+{
+  "string": [
+    {
+      "name": "entry_MainAbility",
+      "value": "entry_MainAbility"
+    },
+    {
+      "name": "mainability_description",
+      "value": "Java_Empty Ability"
+    },
+    {
+      "name": "mainability_HelloWorld",
+      "value": "你好，世界"
+    },
+    {
+      "name": "button_drag",
+      "value":"Drag"
+    },
+    {
+
+      "name": "button_back",
+      "value":"<<Back"
+    },
+
+    {
+      "name": "button_reset",
+      "value": "Try Again"
+    },
+    {
+      "name": "button_webView",
+      "value": "WebView"
+    },
+    {
+      "name": "fillInTheBlank",
+      "value": "FillIn"
+    },
+    {
+      "name": "submit",
+      "value": "Submit"
+    },
+    {
+      "name": "congratulation",
+      "value": "Congratulation"
+    },
+    {
+      "name":"finishingChallenge",
+      "value": "You have finished the challenge!"
+    },
+    {
+      "name": "ok",
+      "value": "OK"
+    },
+    {
+      "name": "choiceQuestion",
+      "value": "Choice"
+    },
+    {
+      "name": "slidePage",
+      "value": "Book"
+    }
+  ]
+}
