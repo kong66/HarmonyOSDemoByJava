@@ -57,6 +57,15 @@
     {
       "name": "slidePage",
       "value": "Book"
+    },
+
+    {
+      "name": "setting",
+      "value": "Setting"
+    },
+    {
+      "name": "save",
+      "value": "Save"
     }
   ]
 }

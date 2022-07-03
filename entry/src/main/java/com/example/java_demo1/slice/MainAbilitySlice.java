@@ -20,6 +20,8 @@ public class MainAbilitySlice extends AbilitySlice {
                 listener -> present(new ChoiceQuestionSlice(), new Intent()));
         findComponentById(ResourceTable.Id_btnSlidePage).setClickedListener(
                 listener -> present(new BookSlice(), new Intent()));
+        findComponentById(ResourceTable.Id_btnSetting).setClickedListener(
+                listener -> present(new SettingSlice(), new Intent()));
 
     }
 

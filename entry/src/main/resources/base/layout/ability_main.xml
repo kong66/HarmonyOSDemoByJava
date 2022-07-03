@@ -75,5 +75,17 @@
         ohos:center_in_parent="true"
         ohos:margin="10vp"
         ohos:background_element="$graphic:background_button"/>
+    <Button
+        ohos:id="$+id:btnSetting"
+        ohos:width="200vp"
+        ohos:height="50vp"
+        ohos:text="$string:setting"
+        ohos:text_size="25fp"
+        ohos:text_color="#FF06000C"
+        ohos:top_padding="8vp"
+        ohos:bottom_padding="8vp"
+        ohos:center_in_parent="true"
+        ohos:margin="10vp"
+        ohos:background_element="$graphic:background_button"/>
 
 </DirectionalLayout>
